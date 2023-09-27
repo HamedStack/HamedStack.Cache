@@ -1,11 +1,12 @@
 ﻿// ReSharper disable UnusedMember.Global
+// ReSharper disable CheckNamespace
 // ReSharper disable UnusedType.Global
 
 using System.Text;
 using System.Text.Json;
 using Microsoft.Extensions.Caching.Distributed;
 
-namespace HamedStack.Cache;
+namespace HamedStack.Cache.Extensions.DistributedCacheExtended;
 
 /// <summary>
 /// Provides extension methods for <see cref="IDistributedCache"/> to support storing and retrieving complex objects.

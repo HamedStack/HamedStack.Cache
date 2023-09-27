@@ -1,4 +1,6 @@
 ﻿// ReSharper disable UnusedMember.Global
+// ReSharper disable UnusedType.Global
+// ReSharper disable MemberCanBePrivate.Global
 
 namespace HamedStack.Cache.ConcreteTypes;
 

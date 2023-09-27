@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿// ReSharper disable UnusedType.Global
+
+using System.Collections;
 using System.Collections.Concurrent;
 using HamedStack.Cache.Abstractions;
 

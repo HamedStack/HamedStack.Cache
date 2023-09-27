@@ -1,11 +1,12 @@
 ﻿// ReSharper disable UnusedMember.Global
 // ReSharper disable UnusedMemberInSuper.Global
 // ReSharper disable UnusedType.Global
+// ReSharper disable CheckNamespace
 
 using System.Runtime.Caching;
 using Microsoft.Extensions.Caching.Memory;
 
-namespace HamedStack.Cache;
+namespace HamedStack.Cache.Extensions.MemoryCacheExtended;
 
 /// <summary>
 /// Provides extension methods for working with <see cref="MemoryCache"/>.
